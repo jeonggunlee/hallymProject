@@ -1,10 +1,6 @@
 
 void poo();
-void foo()
-{
-   // foo() 함수 구현  
-   printf("foo\n");
-}
+void foo();
 
 main()
 {
